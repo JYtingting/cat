@@ -1,0 +1,41 @@
+body{
+  background-color: #f7f7f7;
+  font-size:12px;
+  margin: 0;
+ overflow-y: hidden;
+ overflow-x: hidden;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "PingFang SC", "Helvetica Neue", "STHeiti", "Microsoft Yahei", "\5FAE\8F6F\96C5\9ED1", "Tahoma", "Simsun", "sans-serif";
+}
+
+a{
+  text-decoration:none;
+}
+
+span,h4{
+  color: black;
+}
+
+ul, li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* #app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  max-width: 10rem;
+  min-height: 100vh;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0 auto;
+  overflow: hidden;
+  overflow-y: scroll;
+  font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+} */
